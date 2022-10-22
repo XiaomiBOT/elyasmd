@@ -10,14 +10,14 @@ let anu = `*─────� DONATE 」 ───*
 Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
 ┌〔 Donasi • Emoney 〕
-├📌Indoosat: 085643354073
+├📌Indoosat: 085770190255
 └────
 Berapapun donasi kalian akan sangat berarti 👍
 
 Arigatou!
 
 Contact person Owner:
-wa.me/6285643354073 (Owner)
+wa.me/6285770190255 (Owner)
 
 *donasi via follow ig juga boleh*`
      let message = await prepareWAMessageMedia({ image: fs.readFileSync('./media/donasi.jpg')).buffer() }, { upload: conn.waUploadToServer })
